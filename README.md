@@ -38,3 +38,8 @@ https://github.com/vishalkumarmg1/Algorithms/blob/master/algoexpert.io/python/Fi
 
 https://www.algoexpert.io/questions/branch-sums
 https://github.com/pinglu85/algoExpert/blob/main/Easy/branch-sums.md
+
+# node-depths
+
+https://www.algoexpert.io/questions/node-depths
+https://github.com/pinglu85/algoExpert/blob/main/Easy/node-depths.md
